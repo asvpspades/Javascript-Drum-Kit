@@ -1,2 +1,2 @@
 # Javascript-Drum-Kit
-A drum kit made with javascript, css &amp; html
+A simple drum kit made with javascript, css &amp; html
